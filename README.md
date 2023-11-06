@@ -1,10 +1,13 @@
-# [logo chapeau diplome](/ressource/diplomeCasquette.png) Projet RaceDay du site Codecademy
+[logo chapeau diplome](/ressource/diplomeCasquette.png)
+# Projet RaceDay du site Codecademy
 [Liens vers le projet](https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-building-interactive-websites/tracks/fscj-22-javascript-syntax-part-i/modules/wdcp-22-learn-javascript-syntax-conditionals-0e12e9e0-b36f-476e-b10c-afbc7cd6dbfe/projects/race-day)
 
-## [Logo objectif](/ressource/objectif.png)Objectif 
+[Logo objectif](/ressource/objectif.png)
+## Objectif 
 Cet exercice permet de travailler avec les conditions.
 
-## [Logo consigne](/ressource/intruction.png) Consigne
+[Logo consigne](/ressource/intruction.png)
+## Consigne
 La course annuelle de la Codecademy approche à grands pas ! Cette année, nous avons beaucoup de participants. Vous avez été embauché pour rédiger un programme qui inscrira les coureurs à la course et leur donnera des instructions le jour de la course.
 
 En guise de calendrier, l'inscription ressemblerait à ceci ![Images programmation départ](/ressource/raceday-timeline.svg)
@@ -23,5 +26,6 @@ Les adultes tardifs courent à 11h00.
 Les inscriptions jeunes courent à 12h30 (quelle que soit l'inscription).
 Mais nous n'avions pas prévu des coureurs de 18 ans exactement ! Nous nous en occuperons d’ici la fin du projet.
 
-## [Logo Technologie](/ressource/technologie.png) Technologie
+[Logo Technologie](/ressource/technologie.png)
+## Technologie
 JavaScript ![Logo JavaScript](/ressource/javaScriptLogo.png)
